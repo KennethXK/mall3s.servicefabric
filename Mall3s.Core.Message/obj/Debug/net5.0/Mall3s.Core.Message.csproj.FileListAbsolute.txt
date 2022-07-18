@@ -1,0 +1,15 @@
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\bin\Debug\net5.0\Mall3s.Core.Message.deps.json
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\bin\Debug\net5.0\Mall3s.Core.Message.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\bin\Debug\net5.0\Mall3s.Core.Message.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\bin\Debug\net5.0\Mall3s.Core.System.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\bin\Debug\net5.0\Mall3s.Core.System.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.csproj.AssemblyReference.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.AssemblyInfoInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.AssemblyInfo.cs
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.csproj.CoreCompileInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.csproj.CopyComplete
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\refint\Mall3s.Core.Message.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\Mall3s.Core.Message.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.Message\obj\Debug\net5.0\ref\Mall3s.Core.Message.dll

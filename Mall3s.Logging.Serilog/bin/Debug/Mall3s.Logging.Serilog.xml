@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mall3s.Logging.Serilog</name>
+    </assembly>
+    <members>
+        <member name="T:Mall3s.Logging.Serilog.ApmLessLog">
+            <summary>
+            APM的Log
+            </summary>
+        </member>
+        <member name="T:Mall3s.Logging.Serilog.Logging.IApmLessLog">
+            <summary>
+            ELK APM log
+            </summary>
+        </member>
+        <member name="T:Microsoft.Extensions.Hosting.SerilogHostingExtensions">
+            <summary>
+            Serilog 日志拓展
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.SerilogHostingExtensions.UseSerilogDefault(Microsoft.AspNetCore.Hosting.IWebHostBuilder,System.Action{Serilog.LoggerConfiguration})">
+            <summary>
+            添加默认日志拓展
+            </summary>
+            <param name="hostBuilder"></param>
+            <param name="configAction"></param>
+            <returns>IWebHostBuilder</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.SerilogHostingExtensions.UseSerilogElasticSearch(Microsoft.AspNetCore.Hosting.IWebHostBuilder,System.Action{Serilog.LoggerConfiguration})">
+            <summary>
+            添加ELK日志拓展
+            </summary>
+            <param name="hostBuilder"></param>
+            <param name="configAction"></param>
+            <returns>IWebHostBuilder</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Hosting.SerilogHostingExtensions.UseSerilogDefault(Microsoft.Extensions.Hosting.IHostBuilder,System.Action{Serilog.LoggerConfiguration})">
+            <summary>
+            添加默认日志拓展
+            </summary>
+            <param name="builder"></param>
+            <param name="configAction"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

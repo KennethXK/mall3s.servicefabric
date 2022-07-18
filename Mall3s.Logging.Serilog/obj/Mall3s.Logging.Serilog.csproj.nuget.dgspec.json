@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Project\\mall3s\\mall3s.servicefabric\\Mall3s.Logging.Serilog\\Mall3s.Logging.Serilog.csproj": {}
+  },
+  "projects": {
+    "E:\\Project\\mall3s\\mall3s.servicefabric\\Mall3s.Logging.Serilog\\Mall3s.Logging.Serilog.csproj": {
+      "version": "1.1.1",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\mall3s\\mall3s.servicefabric\\Mall3s.Logging.Serilog\\Mall3s.Logging.Serilog.csproj",
+        "projectName": "Mall3s.Logging.Serilog",
+        "projectPath": "E:\\Project\\mall3s\\mall3s.servicefabric\\Mall3s.Logging.Serilog\\Mall3s.Logging.Serilog.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\mall3s\\mall3s.servicefabric\\Mall3s.Logging.Serilog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Enrichers.CorrelationId": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Serilog.Enrichers.OpenTracing": {
+              "target": "Package",
+              "version": "[0.0.2, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Serilog.Expressions": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            },
+            "SkyAPM.Agent.AspNetCore": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

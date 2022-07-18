@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mall3s.Data.SqlSugar</id>
+    <version>1.1.5</version>
+    <authors>Mall3s.Data.SqlSugar</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Mall3s" version="1.1.1" exclude="Build,Analyzers" />
+        <dependency id="SqlSugar.IOC" version="1.7.0" exclude="Build,Analyzers" />
+        <dependency id="SqlSugarCore.MySqlConnector" version="5.0.4.6" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.Data.SqlSugar.dll" target="lib\net5.0\Mall3s.Data.SqlSugar.dll" />
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.Data.SqlSugar.xml" target="lib\net5.0\Mall3s.Data.SqlSugar.xml" />
+  </files>
+</package>

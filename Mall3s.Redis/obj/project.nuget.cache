@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3jhLkAFOcY5IoRMolaOSlBU7Wpufvt3Y7UjJT+aafI1KrGuwiu/wuuNCNJRqkV6cy0LIyAZtHoUU1ibfuaQ/g==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\mall3s\\mall3s.servicefabric\\Mall3s.Redis\\Mall3s.Core.Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.1.1\\microsoft.extensions.options.configurationextensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\pipelines.sockets.unofficial\\2.0.22\\pipelines.sockets.unofficial.2.0.22.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\stackexchange.redis\\2.0.601\\stackexchange.redis.2.0.601.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.performancecounter\\4.5.0\\system.diagnostics.performancecounter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.io.pipelines\\4.5.1\\system.io.pipelines.4.5.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\4.5.0\\system.threading.channels.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

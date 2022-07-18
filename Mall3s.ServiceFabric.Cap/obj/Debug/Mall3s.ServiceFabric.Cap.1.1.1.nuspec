@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mall3s.ServiceFabric.Cap</id>
+    <version>1.1.1</version>
+    <authors>Mall3s.ServiceFabric.Cap</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Mall3s.ServiceFabric.Core" version="1.1.2" exclude="Build,Analyzers" />
+        <dependency id="DotNetCore.CAP" version="5.2.0" exclude="Build,Analyzers" />
+        <dependency id="DotNetCore.CAP.Dashboard" version="5.2.0" exclude="Build,Analyzers" />
+        <dependency id="DotNetCore.CAP.MySql" version="5.2.0" exclude="Build,Analyzers" />
+        <dependency id="DotNetCore.CAP.RabbitMQ" version="5.2.0" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="5.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s.ServiceFabric.Cap\bin\Debug\net5.0\Mall3s.ServiceFabric.Cap.dll" target="lib\net5.0\Mall3s.ServiceFabric.Cap.dll" />
+  </files>
+</package>

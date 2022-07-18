@@ -1,0 +1,17 @@
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.Data.SqlSugar.deps.json
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.Data.SqlSugar.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.Data.SqlSugar.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.Data.SqlSugar.xml
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\bin\Debug\net5.0\Mall3s.xml
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.csproj.AssemblyReference.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.AssemblyInfoInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.AssemblyInfo.cs
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.csproj.CoreCompileInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.csproj.CopyComplete
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\refint\Mall3s.Data.SqlSugar.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\Mall3s.Data.SqlSugar.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Data.SqlSugar\obj\Debug\net5.0\ref\Mall3s.Data.SqlSugar.dll

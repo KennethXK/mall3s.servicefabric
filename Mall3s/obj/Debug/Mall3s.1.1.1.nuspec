@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mall3s</id>
+    <version>1.1.1</version>
+    <authors>Mall3s</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Ben.Demystifier" version="0.4.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.NewtonsoftJson" version="5.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Razor.Language" version="5.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CodeAnalysis.CSharp" version="3.11.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyModel" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="MiniProfiler.AspNetCore.Mvc" version="4.2.22" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.2.1" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="5.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s\bin\Debug\net5.0\Mall3s.dll" target="lib\net5.0\Mall3s.dll" />
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s\bin\Debug\net5.0\Mall3s.xml" target="lib\net5.0\Mall3s.xml" />
+  </files>
+</package>

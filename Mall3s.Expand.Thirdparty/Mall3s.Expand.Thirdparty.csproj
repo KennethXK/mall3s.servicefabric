@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="aliyun-net-sdk-core" Version="1.5.10" />
+    <PackageReference Include="MailKit" Version="2.15.0" />
+    <PackageReference Include="OnceMi.AspNetCore.OSS" Version="1.1.0" />
+    <PackageReference Include="Senparc.Weixin.Work" Version="3.9.600" />
+    <PackageReference Include="TencentCloudSDK.Sms" Version="3.0.368" />
+    <PackageReference Include="TopSDK.NetCore" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mall3s.Common\Mall3s.Common.csproj" />
+    <ProjectReference Include="..\Mall3s.Mapster\Mall3s.Mapster.csproj" />
+    <ProjectReference Include="..\Mall3s\Mall3s.csproj" />
+  </ItemGroup>
+
+</Project>

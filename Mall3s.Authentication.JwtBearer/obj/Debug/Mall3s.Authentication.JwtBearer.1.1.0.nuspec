@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mall3s.Authentication.JwtBearer</id>
+    <version>1.1.0</version>
+    <authors>Mall3s.Authentication.JwtBearer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="5.0.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s.Authentication.JwtBearer\bin\Debug\net5.0\Mall3s.Authentication.JwtBearer.dll" target="lib\net5.0\Mall3s.Authentication.JwtBearer.dll" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mall3s.Message.Entitys" Version="1.0.0" />
+    <PackageReference Include="Mall3s.System.Entitys" Version="1.0.0" />
+    <PackageReference Include="Mall3s.VisualDev.Entitys" Version="1.0.0" />
+    <PackageReference Include="UAParser" Version="3.1.46" />
+  </ItemGroup>
+
+</Project>

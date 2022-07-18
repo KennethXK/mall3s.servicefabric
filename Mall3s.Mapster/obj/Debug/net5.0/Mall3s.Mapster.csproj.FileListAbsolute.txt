@@ -1,0 +1,13 @@
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\bin\Debug\net5.0\Mall3s.Mapster.deps.json
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\bin\Debug\net5.0\Mall3s.Mapster.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\bin\Debug\net5.0\Mall3s.Mapster.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\bin\Debug\net5.0\Mall3s.Mapster.xml
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\Mall3s.Mapster.csproj.AssemblyReference.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\Mall3s.Mapster.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\Mall3s.Mapster.AssemblyInfoInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\Mall3s.Mapster.AssemblyInfo.cs
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\Mall3s.Mapster.csproj.CoreCompileInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\Mall3s.Mapster.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\refint\Mall3s.Mapster.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\Mall3s.Mapster.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Mapster\obj\Debug\net5.0\ref\Mall3s.Mapster.dll

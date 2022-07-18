@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.1.1</Version>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="DotNetCore.CAP" Version="5.2.0" />
+		<PackageReference Include="DotNetCore.CAP.Dashboard" Version="5.2.0" />
+		<PackageReference Include="DotNetCore.CAP.MySql" Version="5.2.0" />
+		<PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="5.2.0" />
+		<PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ServiceFabric\Mall3s.ServiceFabric.Core\Mall3s.ServiceFabric.Core.csproj" />
+	</ItemGroup>
+
+</Project>

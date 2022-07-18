@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mall3s.Expand.Thirdparty</id>
+    <version>1.1.0</version>
+    <authors>Mall3s.Expand.Thirdparty</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Mall3s.Common" version="1.1.6" exclude="Build,Analyzers" />
+        <dependency id="Mall3s.Mapster" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Mall3s" version="1.1.1" exclude="Build,Analyzers" />
+        <dependency id="MailKit" version="2.15.0" exclude="Build,Analyzers" />
+        <dependency id="OnceMi.AspNetCore.OSS" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Senparc.Weixin.Work" version="3.9.600" exclude="Build,Analyzers" />
+        <dependency id="TencentCloudSDK.Sms" version="3.0.368" exclude="Build,Analyzers" />
+        <dependency id="TopSDK.NetCore" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="aliyun-net-sdk-core" version="1.5.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s.Expand.Thirdparty\bin\Debug\net5.0\Mall3s.Expand.Thirdparty.dll" target="lib\net5.0\Mall3s.Expand.Thirdparty.dll" />
+  </files>
+</package>

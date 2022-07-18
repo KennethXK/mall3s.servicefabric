@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mall3s.ServiceFabric.TestApi</name>
+    </assembly>
+    <members>
+        <member name="T:Mall3s.ServiceFabric.TestApi.HomeController">
+            <summary>
+            测试
+            </summary>
+        </member>
+        <member name="M:Mall3s.ServiceFabric.TestApi.HomeController.CreateTable">
+            <summary>
+            获取测试Nacos
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mall3s.ServiceFabric.TestApi.HomeController.GetNacosConfigAsync">
+            <summary>
+            获取测试Nacos
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mall3s.ServiceFabric.TestApi.HomeController.GetNacosServerAddrAsync">
+            <summary>
+            获取测试Nacos
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mall3s.ServiceFabric.TestApi.HomeController.Translate(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            获取测试Nacos
+            </summary>
+            <param name="type"></param>
+            <param name="frm"></param>
+            <param name="to"></param>
+            <param name="translateType">0代表google，1代表百度</param>
+            <returns></returns>
+        </member>
+        <member name="M:Mall3s.ServiceFabric.TestApi.HomeController.GetList(Mall3s.Common.Filter.PageInputBase)">
+            <summary>
+            地图
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Mall3s.ServiceFabric.TestApi.WebApiClientDemoController">
+            <summary>
+            测试
+            </summary>
+        </member>
+        <member name="M:Mall3s.ServiceFabric.TestApi.WebApiClientDemoController.GetNacosServerAddrAsync">
+            <summary>
+            获取测试Nacos
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Mall3s.ServiceFabric.TestApi.Etities.MapEntity">
+            <summary>
+            地图管理
+            版 本：V3.2
+            版 权：mall3s开发
+            作 者：Mall3s开发平台组
+            日 期：2021-06-01 
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.MapEntity.FullName">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.MapEntity.EnCode">
+            <summary>
+            编号
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.MapEntity.SortCode">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.MapEntity.Data">
+            <summary>
+            地图数据
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.MapEntity.Description">
+            <summary>
+            描述或说明
+            </summary>
+        </member>
+        <member name="T:Mall3s.ServiceFabric.TestApi.Etities.UserEntity">
+            <summary>
+            用户信息基类
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Account">
+            <summary>
+            账户
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.RealName">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.QuickQuery">
+            <summary>
+            快速查询
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.NickName">
+            <summary>
+            呢称
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.HeadIcon">
+            <summary>
+            头像
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Gender">
+            <summary>
+            性别
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Birthday">
+            <summary>
+            生日
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.MobilePhone">
+            <summary>
+            手机
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.TelePhone">
+            <summary>
+            电话
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Landline">
+            <summary>
+            固定电话
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Nation">
+            <summary>
+            民族
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.NativePlace">
+            <summary>
+            籍贯
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.EntryDate">
+            <summary>
+            入职日期
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.CertificatesType">
+            <summary>
+            证件类型
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.CertificatesNumber">
+            <summary>
+            证件号码
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Education">
+            <summary>
+            文化程度
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.UrgentContacts">
+            <summary>
+            紧急联系人
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.UrgentTelePhone">
+            <summary>
+            紧急电话
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.PostalAddress">
+            <summary>
+            通讯地址
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Signature">
+            <summary>
+            自我介绍
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Password">
+            <summary>
+            密码
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Secretkey">
+            <summary>
+            秘钥
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.FirstLogTime">
+            <summary>
+            首次登录时间
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.FirstLogIP">
+            <summary>
+            首次登录IP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.PrevLogTime">
+            <summary>
+            前次登录时间
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.PrevLogIP">
+            <summary>
+            前次登录IP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.LastLogTime">
+            <summary>
+            最后登录时间
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.LastLogIP">
+            <summary>
+            最后登录IP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.LogSuccessCount">
+            <summary>
+            登录成功次数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.LogErrorCount">
+            <summary>
+            登录错误次数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.ChangePasswordDate">
+            <summary>
+            最后修改密码时间
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Language">
+            <summary>
+            系统语言
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Theme">
+            <summary>
+            系统样式
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.CommonMenu">
+            <summary>
+            常用菜单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.IsAdministrator">
+            <summary>
+            是否管理员【0-普通、1-管理员】
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.PropertyJson">
+            <summary>
+            扩展属性
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.Description">
+            <summary>
+            描述
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.SortCode">
+            <summary>
+            排序码
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.ManagerId">
+            <summary>
+            主管主键
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.OrganizeId">
+            <summary>
+            组织主键
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.PositionId">
+            <summary>
+            岗位主键
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.RoleId">
+            <summary>
+            角色主键
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Etities.UserEntity.PortalId">
+            <summary>
+            门户Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Mall3s.ServiceFabric.TestApi.Model.MapListOutput">
+            <summary>
+            地图列表
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Model.MapListOutput.id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Model.MapListOutput.fullName">
+            <summary>
+            地图名称
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Model.MapListOutput.enCode">
+            <summary>
+            地图编码
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Model.MapListOutput.sortCode">
+            <summary>
+            排序码
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Model.MapListOutput.enabledMark">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Model.MapListOutput.creatorUser">
+            <summary>
+            添加者
+            </summary>
+        </member>
+        <member name="P:Mall3s.ServiceFabric.TestApi.Model.MapListOutput.creatorTime">
+            <summary>
+            添加时间
+            </summary>
+        </member>
+        <member name="T:Mall3s.Demo.BaseData.Entitys.ExchangeRate">
+            <summary>
+            Demo
+            </summary>
+        </member>
+        <member name="P:Mall3s.Demo.BaseData.Entitys.ExchangeRate.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:Mall3s.Demo.BaseData.Entitys.ExchangeRate.CreatorTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Mall3s.Demo.BaseData.Entitys.ExchangeRate.CreatorUserId">
+            <summary>
+            创建用户ID
+            </summary>
+        </member>
+        <member name="P:Mall3s.Demo.BaseData.Entitys.ExchangeRate.ExchangeDate">
+            <summary>
+            汇率日期
+            </summary>     
+        </member>
+        <member name="P:Mall3s.Demo.BaseData.Entitys.ExchangeRate.From">
+            <summary>
+            源币种
+            </summary>
+        </member>
+        <member name="P:Mall3s.Demo.BaseData.Entitys.ExchangeRate.To">
+            <summary>
+            转换币种
+            </summary>
+        </member>
+        <member name="P:Mall3s.Demo.BaseData.Entitys.ExchangeRate.Rate">
+            <summary>
+            汇率
+            </summary>
+        </member>
+    </members>
+</doc>

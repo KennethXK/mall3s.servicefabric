@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mall3s.Common</id>
+    <version>1.1.6</version>
+    <authors>Mall3s.Common</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Mall3s.Data.SqlSugar" version="1.1.5" exclude="Build,Analyzers" />
+        <dependency id="Mall3s.Mapster" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Aspose.Cells" version="21.6.0" exclude="Build,Analyzers" />
+        <dependency id="Aspose.Words" version="21.7.0" exclude="Build,Analyzers" />
+        <dependency id="CSRedisCore" version="3.6.6" exclude="Build,Analyzers" />
+        <dependency id="FreeSpire.Office" version="4.3.1" exclude="Build,Analyzers" />
+        <dependency id="NPOI" version="2.5.3" exclude="Build,Analyzers" />
+        <dependency id="OnceMi.AspNetCore.OSS" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.PerformanceCounter" version="5.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Management" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Yitter.IdGenerator" version="1.0.12" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Project\mall3s\mall3s.servicefabric\Mall3s.Common\bin\Debug\net5.0\Mall3s.Common.dll" target="lib\net5.0\Mall3s.Common.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Mall3s.ServiceFabric.CAP.Dashboard": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53869;http://localhost:53870"
+    }
+  }
+}

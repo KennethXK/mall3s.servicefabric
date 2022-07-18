@@ -1,0 +1,12 @@
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\bin\Debug\net5.0\Mall3s.Core.Redis.deps.json
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\bin\Debug\net5.0\Mall3s.Core.Redis.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\bin\Debug\net5.0\Mall3s.Core.Redis.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\Mall3s.Core.Redis.csproj.AssemblyReference.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\Mall3s.Core.Redis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\Mall3s.Core.Redis.AssemblyInfoInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\Mall3s.Core.Redis.AssemblyInfo.cs
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\Mall3s.Core.Redis.csproj.CoreCompileInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\Mall3s.Core.Redis.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\refint\Mall3s.Core.Redis.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\Mall3s.Core.Redis.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Redis\obj\Debug\net5.0\ref\Mall3s.Core.Redis.dll

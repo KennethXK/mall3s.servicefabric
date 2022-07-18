@@ -1,0 +1,5 @@
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.WorkFlow\obj\Debug\net5.0\Mall3s.Core.WorkFlow.csproj.AssemblyReference.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.WorkFlow\obj\Debug\net5.0\Mall3s.Core.WorkFlow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.WorkFlow\obj\Debug\net5.0\Mall3s.Core.WorkFlow.AssemblyInfoInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.WorkFlow\obj\Debug\net5.0\Mall3s.Core.WorkFlow.AssemblyInfo.cs
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.WorkFlow\obj\Debug\net5.0\Mall3s.Core.WorkFlow.csproj.CoreCompileInputs.cache

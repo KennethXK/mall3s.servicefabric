@@ -1,0 +1,13 @@
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\bin\Debug\net5.0\Mall3s.Logging.Serilog.deps.json
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\bin\Debug\net5.0\Mall3s.Logging.Serilog.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\bin\Debug\net5.0\Mall3s.Logging.Serilog.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\bin\Debug\net5.0\Mall3s.Logging.Serilog.xml
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\Mall3s.Logging.Serilog.csproj.AssemblyReference.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\Mall3s.Logging.Serilog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\Mall3s.Logging.Serilog.AssemblyInfoInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\Mall3s.Logging.Serilog.AssemblyInfo.cs
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\Mall3s.Logging.Serilog.csproj.CoreCompileInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\Mall3s.Logging.Serilog.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\refint\Mall3s.Logging.Serilog.dll
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\Mall3s.Logging.Serilog.pdb
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Logging.Serilog\obj\Debug\net5.0\ref\Mall3s.Logging.Serilog.dll

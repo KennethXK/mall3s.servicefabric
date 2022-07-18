@@ -1,0 +1,5 @@
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.VisualDev\obj\Debug\net5.0\Mall3s.Core.VisualDev.csproj.AssemblyReference.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.VisualDev\obj\Debug\net5.0\Mall3s.Core.VisualDev.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.VisualDev\obj\Debug\net5.0\Mall3s.Core.VisualDev.AssemblyInfoInputs.cache
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.VisualDev\obj\Debug\net5.0\Mall3s.Core.VisualDev.AssemblyInfo.cs
+E:\Project\mall3s\mall3s.servicefabric\Mall3s.Core.VisualDev\obj\Debug\net5.0\Mall3s.Core.VisualDev.csproj.CoreCompileInputs.cache
